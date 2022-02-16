@@ -1,0 +1,16 @@
+C:\travel\Ellipse\Ellipse\bin\Debug\net5.0\Ellipse.exe
+C:\travel\Ellipse\Ellipse\bin\Debug\net5.0\Ellipse.deps.json
+C:\travel\Ellipse\Ellipse\bin\Debug\net5.0\Ellipse.runtimeconfig.json
+C:\travel\Ellipse\Ellipse\bin\Debug\net5.0\Ellipse.runtimeconfig.dev.json
+C:\travel\Ellipse\Ellipse\bin\Debug\net5.0\Ellipse.dll
+C:\travel\Ellipse\Ellipse\bin\Debug\net5.0\ref\Ellipse.dll
+C:\travel\Ellipse\Ellipse\bin\Debug\net5.0\Ellipse.pdb
+C:\travel\Ellipse\Ellipse\obj\Debug\net5.0\Ellipse.csproj.AssemblyReference.cache
+C:\travel\Ellipse\Ellipse\obj\Debug\net5.0\Ellipse.GeneratedMSBuildEditorConfig.editorconfig
+C:\travel\Ellipse\Ellipse\obj\Debug\net5.0\Ellipse.AssemblyInfoInputs.cache
+C:\travel\Ellipse\Ellipse\obj\Debug\net5.0\Ellipse.AssemblyInfo.cs
+C:\travel\Ellipse\Ellipse\obj\Debug\net5.0\Ellipse.csproj.CoreCompileInputs.cache
+C:\travel\Ellipse\Ellipse\obj\Debug\net5.0\Ellipse.dll
+C:\travel\Ellipse\Ellipse\obj\Debug\net5.0\ref\Ellipse.dll
+C:\travel\Ellipse\Ellipse\obj\Debug\net5.0\Ellipse.pdb
+C:\travel\Ellipse\Ellipse\obj\Debug\net5.0\Ellipse.genruntimeconfig.cache
