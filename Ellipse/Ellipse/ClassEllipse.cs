@@ -21,6 +21,7 @@ namespace Ellipse
             get;
             private set;
         }
+        
         public ClassEllipse(Point centerCoords, int smallRaduis, int bigRaduis)
         {
             if (smallRaduis < 0)
