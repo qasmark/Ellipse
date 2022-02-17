@@ -2,7 +2,7 @@
 
 namespace Ellipse
 {
-    class ClassEllipse
+    class Ellipse
     {
         public int SmallRadius
         {
