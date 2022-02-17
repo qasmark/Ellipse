@@ -17,7 +17,7 @@ namespace Ellipse
 
             try
             {
-                var ellipse = new ClassEllipse(centerCords, smallRadius, bigRadius);
+                var ellipse = new Ellipse(centerCords, smallRadius, bigRadius);
                 Console.WriteLine(
                     $"Big radius is {ellipse.BigRadius}, small radius is {ellipse.SmallRadius}\n" +
                     $"Also the center is {ellipse.CenterCords}\n" +
