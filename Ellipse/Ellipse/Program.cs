@@ -11,6 +11,7 @@ namespace Ellipse
                 X = 100,
                 Y = 80
             };
+            
             int smallRadius = 5;
             int bigRadius = 10;
 
